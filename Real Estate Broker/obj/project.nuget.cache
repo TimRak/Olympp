@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ux9hViBCV3OzBtRsAUJ97GPPTjfMVb+wJ9JktcKI7GWE+IxV9Q3wBWQJ9ybw4iZIz1yq88H8mYt6wNh9URhf4g==",
+  "dgSpecHash": "rdAk7qkgn5mO9yrqHWrg7TNiHB4Yi6oqFC3hB/913IGY1Jspa0N4pRzdvgVPhgFtvVp/FE5N9yzyaIFM6a5hWg==",
   "success": true,
   "projectFilePath": "C:\\Repos\\Olympp\\Real Estate Broker\\Real Estate Broker.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\timra\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
