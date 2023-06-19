@@ -8,13 +8,18 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Model\" />
-    <Folder Include="Controllers\" />
-    <Folder Include="Config\" />
-    <Folder Include="Infrastructure\" />
-    <Folder Include="Application\" />
-    <Folder Include="Data\" />
-    <Folder Include="Services\" />
+    <Folder Include="_NonUsed\Model\" />
+    <Folder Include="_NonUsed\Controllers\" />
+    <Folder Include="_NonUsed\Config\" />
+    <Folder Include="_NonUsed\Data\" />
+    <Folder Include="Entities\" />
+    <Folder Include="_NonUsed\" />
+    <Folder Include="_NonUsed\Services\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.7" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.7" />
   </ItemGroup>
 
 </Project>
