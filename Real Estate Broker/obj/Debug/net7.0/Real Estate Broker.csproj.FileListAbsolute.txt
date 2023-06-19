@@ -1,0 +1,31 @@
+C:\Repos\Olympp\Real Estate Broker\bin\Debug\net7.0\appsettings.Development.json
+C:\Repos\Olympp\Real Estate Broker\bin\Debug\net7.0\appsettings.json
+C:\Repos\Olympp\Real Estate Broker\bin\Debug\net7.0\Real Estate Broker.staticwebassets.runtime.json
+C:\Repos\Olympp\Real Estate Broker\bin\Debug\net7.0\Real Estate Broker.exe
+C:\Repos\Olympp\Real Estate Broker\bin\Debug\net7.0\Real Estate Broker.deps.json
+C:\Repos\Olympp\Real Estate Broker\bin\Debug\net7.0\Real Estate Broker.runtimeconfig.json
+C:\Repos\Olympp\Real Estate Broker\bin\Debug\net7.0\Real Estate Broker.dll
+C:\Repos\Olympp\Real Estate Broker\bin\Debug\net7.0\Real Estate Broker.pdb
+C:\Repos\Olympp\Real Estate Broker\obj\Debug\net7.0\Real Estate Broker.csproj.AssemblyReference.cache
+C:\Repos\Olympp\Real Estate Broker\obj\Debug\net7.0\Real Estate Broker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Olympp\Real Estate Broker\obj\Debug\net7.0\Real Estate Broker.AssemblyInfoInputs.cache
+C:\Repos\Olympp\Real Estate Broker\obj\Debug\net7.0\Real Estate Broker.AssemblyInfo.cs
+C:\Repos\Olympp\Real Estate Broker\obj\Debug\net7.0\Real Estate Broker.csproj.CoreCompileInputs.cache
+C:\Repos\Olympp\Real Estate Broker\obj\Debug\net7.0\Real Estate Broker.MvcApplicationPartsAssemblyInfo.cache
+C:\Repos\Olympp\Real Estate Broker\obj\Debug\net7.0\Real Estate Broker.RazorAssemblyInfo.cache
+C:\Repos\Olympp\Real Estate Broker\obj\Debug\net7.0\Real Estate Broker.RazorAssemblyInfo.cs
+C:\Repos\Olympp\Real Estate Broker\obj\Debug\net7.0\staticwebassets\msbuild.Real Estate Broker.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Repos\Olympp\Real Estate Broker\obj\Debug\net7.0\staticwebassets\msbuild.build.Real Estate Broker.props
+C:\Repos\Olympp\Real Estate Broker\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Real Estate Broker.props
+C:\Repos\Olympp\Real Estate Broker\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Real Estate Broker.props
+C:\Repos\Olympp\Real Estate Broker\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Repos\Olympp\Real Estate Broker\obj\Debug\net7.0\staticwebassets.build.json
+C:\Repos\Olympp\Real Estate Broker\obj\Debug\net7.0\staticwebassets.development.json
+C:\Repos\Olympp\Real Estate Broker\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Repos\Olympp\Real Estate Broker\obj\Debug\net7.0\scopedcss\bundle\Real Estate Broker.styles.css
+C:\Repos\Olympp\Real Estate Broker\obj\Debug\net7.0\scopedcss\projectbundle\Real Estate Broker.bundle.scp.css
+C:\Repos\Olympp\Real Estate Broker\obj\Debug\net7.0\Real Estate Broker.dll
+C:\Repos\Olympp\Real Estate Broker\obj\Debug\net7.0\refint\Real Estate Broker.dll
+C:\Repos\Olympp\Real Estate Broker\obj\Debug\net7.0\Real Estate Broker.pdb
+C:\Repos\Olympp\Real Estate Broker\obj\Debug\net7.0\Real Estate Broker.genruntimeconfig.cache
+C:\Repos\Olympp\Real Estate Broker\obj\Debug\net7.0\ref\Real Estate Broker.dll
